@@ -2,6 +2,6 @@
     "name": "Jada Smith",
     "github": "jsmith698",
     "repo": "https://github.com/jsmith698/Hello-Angular-Modified.git",
-    "app":
+    "app": "https://hello-angular-modified.herokuapp.com/",
     "skills": ["Java", "Python", "Web Development", "PHP"]
 }
